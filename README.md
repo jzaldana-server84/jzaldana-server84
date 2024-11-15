@@ -53,7 +53,7 @@ I am a professional, programmer, and enthusiast passionate about data analysis, 
 
 - Creating a Data Analyst porfolio with three main projects: Football Analytics - KPI Dashboard Power BI -  Sentiment Analysis with Python
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jzaldana.server84&repo=DataAnalysisPortfolio)](https://github.com/jzaldana-server84/DataAnalysisPortfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jzaldana-server84&repo=DataAnalysisPortfolio)](https://github.com/jzaldana-server84/DataAnalysisPortfolio)
 
 ## Current Stats
 
