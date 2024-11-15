@@ -57,8 +57,8 @@ I am a professional, programmer, and enthusiast passionate about data analysis, 
 
 ## Current Stats
 
-![JC's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzaldana.server84&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzaldana.server84&hide_progress=false&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jzaldana-server84&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzaldana-server84&hide_progress=false&layout=compact)
 
 
           
