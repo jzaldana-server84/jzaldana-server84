@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 <!-- <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> -->
           
