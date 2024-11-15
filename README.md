@@ -37,7 +37,7 @@ I am a professional, programmer, and enthusiast passionate about data analysis, 
 
 <i>
 <img height=30px width=30px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
-<a href="www.linkedin.com/in/jzaldanav" target="_blank"><img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/jzaldanav" target="_blank"><img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 </i>
 <hr>
 
